@@ -24,6 +24,7 @@ p{
     justify-content: center;
     margin-top: 70px;
     gap: 50px;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .choice{
