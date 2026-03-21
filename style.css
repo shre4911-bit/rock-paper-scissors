@@ -84,6 +84,7 @@ p{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .result{
